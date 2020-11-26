@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/ipcreator_logo.png</file>
+        <file>images/clock_logo.png</file>
+    </qresource>
+    <qresource prefix="/png">
+        <file>resource/1downarrow16x16.png</file>
+        <file>resource/1leftarrow16x16.png</file>
+        <file>resource/1rightarrow16x16.png</file>
+        <file>resource/1uparrow16x16.png</file>
+        <file>resource/2downarrow16x16.png</file>
+        <file>resource/2leftarrow16x16.png</file>
+        <file>resource/2rightarrow16x16.png</file>
+        <file>resource/2uparrow16x16.png</file>
+    </qresource>
+</RCC>
